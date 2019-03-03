@@ -2,7 +2,7 @@
     <teiHeader>  
         <fileDesc>
             <titleStmt>
-               <title>Название книги</title>
+               <title>Кавказские повести</title>
             </titleStmt>
             <respStmt>
                 <persName>Валентина Брылова</persName>
